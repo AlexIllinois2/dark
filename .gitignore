@@ -1,0 +1,22 @@
+# Gradle / 构建
+.gradle/
+**/build/
+app/build/
+
+# IDE
+.idea/
+*.iml
+captures/
+.DS_Store
+
+# 本地工具链（JDK + Android SDK）
+.toolchain/
+
+# 签名密钥
+/keystore/
+
+# 构建产物
+/dist/
+
+# 助手工作目录
+.workbuddy/
